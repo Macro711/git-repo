@@ -1,3 +1,4 @@
 print("Hello world!!");
 print("Everyone");
 print("Hello my dear friend");
+print("Glad to c u");
